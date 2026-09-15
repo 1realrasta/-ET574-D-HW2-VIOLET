@@ -4,4 +4,5 @@ print('Jazmine Task A')
 print('Melinda Task B')
 print('Khalil Task B')
 
+print('Melinda Task C')
 print('Khalil Task C')
