@@ -1,0 +1,2 @@
+"ID",TYPE,COMMMIT,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED
+task/issue #,brief description of task or issue,Git commit hex value,open or closed,detailed description of task or issue,ame of person who found the issue,name of person assigned to complete task or resolve issue,date task was assigned,date task was created or issue reported,date task was completed or issue resolved
