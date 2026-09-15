@@ -4,7 +4,6 @@ print('Jazmine Task A')
 print('Melinda Task B')
 print('Khalil Task B')
 print('Jazmine Task B')
-print('Khalil Task C')
-
 print('Melinda Task C')
 print('Khalil Task C')
+print('Jazmine Task C')
