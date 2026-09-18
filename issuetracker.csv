@@ -1,2 +1,12 @@
-"ID",TYPE,COMMMIT,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED
-task/issue #,brief description of task or issue,Git commit hex value,open or closed,detailed description of task or issue,ame of person who found the issue,name of person assigned to complete task or resolve issue,date task was assigned,date task was created or issue reported,date task was completed or issue resolved
+ID,TYPE,COMMIT,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+1,task,6d47785,closed,Task A,,melindamcelveen91-hub,20-Sep,9-Sep,9-Sep,
+2,task,bcc3f1a,closed,Task A,,1realrasta,20-Sep,9-Sep,9-Sep,
+3,task,15091e9,closed,Task A,,Jcartwright54,20-Sep,9-Sep,9-Sep,
+4,task,b312ba3,closed,Task B,,melindamcelveen91-hub,20-Sep,12-Sep,12-Sep,
+5,task,40f36db,closed,Task B,,Jcartwright54,20-Sep,12-Sep,12-Sep,
+6,task,077edaa,closed,Task B,,1realrasta,20-Sep,15-Sep,15-Sep,
+7,task,705d72e,closed,Task C,,melindamcelveen91-hub,20-Sep,15-Sep,15-Sep,
+8,task,5a105f6,closed,Task C,,1realrasta,20-Sep,15-Sep,15-Sep,
+9,task,49bb03d,closed,Task C,,Jcartwright54,20-Sep,15-Sep,15-Sep,
+10,version,,closed,Merge branch version 1,,1realrasta,20-Sep,9-Sep,9-Sep,Merged version 1 into main
+11,version,,closed,Merge branch version 2,,Jcartwright54,20-Sep,15-Sep,15-Sep,Merged version 2 into main
