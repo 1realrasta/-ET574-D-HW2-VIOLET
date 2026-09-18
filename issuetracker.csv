@@ -8,5 +8,5 @@ ID,TYPE,COMMIT,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 7,task,705d72e,closed,Task C,,melindamcelveen91-hub,20-Sep,15-Sep,15-Sep,
 8,task,5a105f6,closed,Task C,,1realrasta,20-Sep,15-Sep,15-Sep,
 9,task,49bb03d,closed,Task C,,Jcartwright54,20-Sep,15-Sep,15-Sep,
-10,version,,closed,Merge branch version 1,,1realrasta,20-Sep,9-Sep,9-Sep,Merged version 1 into main
-11,version,,closed,Merge branch version 2,,Jcartwright54,20-Sep,15-Sep,15-Sep,Merged version 2 into main
+10,version,0210dda,closed,Merge branch version 1,,1realrasta,20-Sep,9-Sep,9-Sep,Merged version 1 into main
+11,version,5836e34,closed,Merge branch version 2,,Jcartwright54,20-Sep,15-Sep,15-Sep,Merged version 2 into main
